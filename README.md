@@ -8,7 +8,7 @@ hello! my name is elianah (shortened to elia), and im a 17-year-old programmer f
 * 🎱 i was the lead organizer of [ascend](https://github.com/hackclub/ascend), the biggest hackathon for high school girls in 2024
 * 🐾 im currently working as an intern for hack club's [athena initiative](https://github.com/hackclub/athena) in shelburne, vt
 
-to get in touch, you can reach me at elianah@hackclub.com or elianahsangels@gmail.com
+to get in touch, you can reach me at elianah@hackclub.com or elianahsangels@gmail.com.
 
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&logoSize=3)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
