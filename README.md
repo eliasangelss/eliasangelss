@@ -1,4 +1,4 @@
-![A short, tan header with a record, vinyls, and a bus.](new-header)
+![A short, tan header with a record, vinyls, and a bus.](header-image-3)
 
 hello! my name is elianah (shortened to elia), and im a 17 year old programmer from minneapolis.
 
