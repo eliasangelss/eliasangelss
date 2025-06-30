@@ -1,4 +1,4 @@
-![A short, tan header with sneakers, cameras, and books.](https://i.pinimg.com/736x/18/74/1a/18741a38e7eb391f74be9eb00d4fe579.jpg)
+![A short, tan header with sneakers, cameras, and books.](header-image)
 
 hello! my name is elianah (shortened to elia), and im a 17 year old programmer from minneapolis.
 
