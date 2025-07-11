@@ -16,4 +16,5 @@ to get in touch, you can reach me at elianah@hackclub.com or elianahsangels@gmai
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%23fff)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=fff)](https://scipy.org/)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge)](https://code.visualstudio.com/)
