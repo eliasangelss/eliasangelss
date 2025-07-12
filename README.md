@@ -18,3 +18,4 @@ to get in touch, you can reach me at elianah@hackclub.com or elianahsangels@gmai
 [![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=fff)](https://scipy.org/)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge)](https://code.visualstudio.com/)
+[![ML Flow](https://img.shields.io/badge/mlflow-0194e2?style=for-the-badge&logo=mlflow&logoColor=fff)](https://mlflow.org/docs/latest/)
