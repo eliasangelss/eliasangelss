@@ -4,9 +4,10 @@
 
 hello! my name is elianah (shortened to elia), and im a 17-year-old programmer from minneapolis.
 
-* 📓 im a '24 cs scholar at carnegie mellon and a '25 futuremakers engineer at mit
+* 📓 im a '24 cs scholar at carnegie mellon, a '25 futuremakers engineer at mit, and a '26 ncwit national winner
 * 🎱 i was the lead organizer of [ascend](https://github.com/hackclub/ascend), the biggest hackathon for high school girls in 2024
-* 🐾 im currently working as an intern for hack club's [athena initiative](https://github.com/hackclub/athena) in shelburne, vt
+* 🐾 i interned last summer for hack club's [athena initiative](https://github.com/hackclub/athena) in shelburne, vt, connecting with girls around the world
+* 🍙 my main project right now is athenaeum, a podcast where i host 60min interviews with women in tech
 
 to get in touch, you can reach me at elianah@hackclub.com or elianahsangels@gmail.com.
 
