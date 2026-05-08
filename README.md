@@ -2,7 +2,7 @@
 
 ## ☆ elia's library
 
-hello! my name is elianah (shortened to elia), and im a 17-year-old programmer from minneapolis.
+hello! my name is elianah (shortened to elia), and im a 18-year-old programmer from minneapolis.
 
 * 📓 im a '24 cs scholar at carnegie mellon, a '25 futuremakers engineer at mit, and a '26 ncwit national winner
 * 🎱 i was the lead organizer of [ascend](https://github.com/hackclub/ascend), the biggest hackathon for high school girls in 2024
