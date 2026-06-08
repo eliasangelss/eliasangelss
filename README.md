@@ -9,12 +9,13 @@ hello! my name is elianah (shortened to elia), and im a 18-year-old programmer f
 * 🐾 i interned last summer for hack club's [athena initiative](https://github.com/hackclub/athena) in shelburne, vt, connecting with girls around the world
 * 🍙 my main project right now is athenaeum, a podcast where i host 60min interviews with women in tech
 
-to get in touch, you can reach me at elianah@hackclub.com or elianahsangels@gmail.com.
+to get in touch, you can reach me at elianahsangels@gmail.com.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=%23fff)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
 [![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
 [![SciPy](https://img.shields.io/badge/scipy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=fff)](https://scipy.org/)
+[![Optuna](https://img.shields.io/badge/optuna-002C76?style=for-the-badge&logo=optuna)](https://optuna.org)
 [![Flask](https://img.shields.io/badge/flask-3babc3?style=for-the-badge&logo=flask&logoColor=ffffff)](https://flask.palletsprojects.com/en/stable/)
 [![ML Flow](https://img.shields.io/badge/mlflow-0194e2?style=for-the-badge&logo=mlflow&logoColor=fff)](https://mlflow.org/docs/latest/)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge)](https://code.visualstudio.com/)
